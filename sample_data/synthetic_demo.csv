@@ -1,0 +1,5 @@
+transaction_id,amount,currency,merchant_category,is_fraud
+TXN-001,1500,NGN,airtime_topup,0
+TXN-002,89000,NGN,electronics,1   # Unusually high amount for category
+TXN-003,3200,NGN,restaurant,0
+TXN-004,500000,NGN,charity,1      # Fraud pattern: fake charity
