@@ -1,5 +1,5 @@
 *.csv
-          !sample/*.csv
-          *.json
-          .env
-          /secret_configs/
+!sample/*.csv
+ *.json
+ .env
+/secret_configs/
